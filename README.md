@@ -1,8 +1,11 @@
 🌏 China vs USA Asset Dashboard
 
 https://img.shields.io/badge/version-1.0.0-blue
+
 https://img.shields.io/badge/demo-active-brightgreen
+
 https://img.shields.io/badge/license-MIT-green
+
 
 📊 Live Demo
 
